@@ -1,0 +1,12 @@
+.outer{
+    background-color: aquamarine;
+
+    position:relative;
+    
+    bottom:25%;
+    margin: 50px;
+    padding: 30px 30px 30px 30px;
+}
+.inner{
+    background-color: bisque;
+}
