@@ -1,2 +1,2 @@
 # amazonClone
-front end form using html and css
+front end website using html and css
