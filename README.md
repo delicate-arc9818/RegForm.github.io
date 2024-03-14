@@ -1,2 +1,2 @@
-# my form
+# amazonClone
 front end form using html and css
